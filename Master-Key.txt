@@ -1,0 +1,27 @@
+REAL CLIPS (1-5)
+1. 7652
+2. 8245
+3. 9351
+4. 18836
+5. 29641
+
+
+FAKE CLIPS (6-10)
+6. 2847
+7. 9358
+8. 10312
+9. 14559
+10. 18461
+
+ANSWER KEY
+Q1 - Real
+Q3 - Real
+Q5 - Real
+Q7 - Real
+Q9 - Real
+Q11 - AI
+Q13 - AI
+Q15 - AI
+Q17 - AI
+Q19 - AI
+
